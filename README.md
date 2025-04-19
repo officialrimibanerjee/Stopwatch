@@ -29,14 +29,6 @@ Start, pause, reset, and track lap times with a clean, minimal interface.
 
 ---
 
-## 📸 Screenshot
-
-> _(Add a screenshot here if you'd like — just upload the image and link it below!)_
-
-![Stopwatch Preview](./screenshot.png)
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
